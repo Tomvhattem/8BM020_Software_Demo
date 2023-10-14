@@ -23,7 +23,7 @@ This repository contains a Jupyter Notebook tutorial (`DEMO.ipynb`) demonstratin
   - Website: [UC2 Website](https://openuc2.com/)
 
 - **N4N Lab**: Supporting Research Group
-  - Webiste: [n4nlab.eu](https://www.n4nlab.eu/)
+  - Website: [n4nlab.eu](https://www.n4nlab.eu/)
 ## Prerequisites
 
 The required environments are explained in the demo.
