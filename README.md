@@ -32,7 +32,7 @@ The required environments are explained in the demo.
 
 Follow these instructions to get the demo running on your local machine.
 
-1. Clone this repository:
+1. Clone this repository or download the zip (code button above):
 
    ```sh
    git clone https://github.com/Tomvhattem/8P370_Imswitch_DEMO
