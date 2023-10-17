@@ -18,7 +18,7 @@ This repository contains a Jupyter Notebook tutorial (`DEMO.ipynb`) demonstratin
   - Repository: [Imswitch GitHub Repository](https://github.com/ImSwitch/ImSwitch)
   - Website: [Imswitch Documentation](https://imswitch.readthedocs.io/en/stable/)
 
-- **UC2 Hardware**: Original ImSwitch.
+- **UC2 Hardware**: Open Source Microscopy Cubes.
   - Repository: [UC2 General GitHub Repository](https://github.com/openUC2/UC2-GIT)
   - Website: [UC2 Website](https://openuc2.com/)
 
