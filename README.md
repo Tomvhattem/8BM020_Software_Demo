@@ -35,7 +35,7 @@ Follow these instructions to get the demo running on your local machine.
 1. Clone this repository or download the zip (code button above):
 
    ```sh
-   git clone https://github.com/Tomvhattem/8P370_Imswitch_DEMO
+   git clone https://github.com/Tomvhattem/8BM020_Software_Demo
    ```
 
 2. Open the repository or jupyter notebook in your preferred software (VS Code, PyCharm)
