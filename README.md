@@ -6,6 +6,8 @@
 
 This repository contains a Jupyter Notebook tutorial (`DEMO.ipynb`) demonstrating the usage of UC2-REST and Imswitch for CBL Microscopy. UC2-REST is an open-source project that provides utilities to control a ESP32 board for microscopy, and Imswitch is another open-source project that provides GUI options for controlling the UC2 board.
 
+To run this code you will need a code editor such as jupyter, VS Code or PyCharm, we prefer to use VS Code, but you can use whatever you feel comfortable with. Besides the code editor you will also need an environment, how to create this is explained in the DEMO file. 
+
 ## Credits and useful links
 
 - **UC2-REST**: Open-source UC2 Rest API.
