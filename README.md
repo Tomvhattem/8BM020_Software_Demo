@@ -1,7 +1,7 @@
 # UC2-REST and Imswitch Demo
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/tomvhattem/8P370_Imswitch_DEMO)
-![GitHub top language](https://img.shields.io/github/languages/top/tomvhattem/8P370_Imswitch_DEMO)
-![GitHub Repo stars](https://img.shields.io/github/stars/tomvhattem/8P370_Imswitch_DEMO)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/tomvhattem/8BM020_Software_Demo)
+![GitHub top language](https://img.shields.io/github/languages/top/tomvhattem/8BM020_Software_Demo)
+![GitHub Repo stars](https://img.shields.io/github/stars/tomvhattem/8BM020_Software_Demo)
 
 
 This repository contains a Jupyter Notebook tutorial (`DEMO.ipynb`) demonstrating the usage of UC2-REST and Imswitch for CBL Microscopy. UC2-REST is an open-source project that provides utilities to control a ESP32 board for microscopy, and Imswitch is another open-source project that provides GUI options for controlling the UC2 board.
